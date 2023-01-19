@@ -1,0 +1,15 @@
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\bin\Debug\net6.0\ElasticCollectionsFilter.exe
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\bin\Debug\net6.0\ElasticCollectionsFilter.deps.json
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\bin\Debug\net6.0\ElasticCollectionsFilter.runtimeconfig.json
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\bin\Debug\net6.0\ElasticCollectionsFilter.dll
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\bin\Debug\net6.0\ElasticCollectionsFilter.pdb
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ElasticCollectionsFilter.csproj.AssemblyReference.cache
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ElasticCollectionsFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ElasticCollectionsFilter.AssemblyInfoInputs.cache
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ElasticCollectionsFilter.AssemblyInfo.cs
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ElasticCollectionsFilter.csproj.CoreCompileInputs.cache
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ElasticCollectionsFilter.dll
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\refint\ElasticCollectionsFilter.dll
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ElasticCollectionsFilter.pdb
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ElasticCollectionsFilter.genruntimeconfig.cache
+C:\Users\achar\source\repos\ElasticCollectionsFilter\ElasticCollectionsFilter\obj\Debug\net6.0\ref\ElasticCollectionsFilter.dll
